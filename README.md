@@ -26,5 +26,5 @@ Match 3 or more identical pieces vertically, horizontally, or diagonally to clea
 - C++ compiler (GCC, Clang, or MSVC)
 - Prefered DevC++ or VS Code
 
-# Run the game
+### Run the game
 - Click compile and run on compiler
