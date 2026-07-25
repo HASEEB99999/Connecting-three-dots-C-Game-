@@ -7,7 +7,7 @@ Match 3 or more identical pieces vertically, horizontally, or diagonally to clea
 
 ## 🎮 Features
 
-- Grid-based gameplay (e.g., 6x6 or 8x8 board)
+- Grid-based gameplay (3 x 3 board)
 - Swap adjacent tiles to form lines of 3+
 - Automatic cascade and refill after matches
 - Score tracking and move counter
